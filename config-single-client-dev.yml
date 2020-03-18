@@ -1,5 +1,5 @@
 data:
-  env: localhost-dev-edit888
+  env: single-client-env
   user:
-    username: fengzheng-dev999
-    password: password-dev
+    username: tianliuzhen
+    password: 88888
