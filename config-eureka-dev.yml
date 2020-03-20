@@ -2,4 +2,4 @@ data:
   env: config-eureka-dev
   user:
     username: eureka-client
-    password: '{cipher}AQAF066wgBr4ZyDo10+DtrIvhlk/LTp6WrwNucq/5/VHhgjkE0Bjlw/wZcZRPoyuT75qZwtHQXbKtkHPnPpPdpmDxvnnnODzHMqhzGMpOz/Kp7qvF2x/ikErotsC9RnQYyFp/mMlPsvoOwkUaa8KDZEc+0UEa7TrGK09vKH3MjhzE9DLOQg9YC82HbQcpIWTUrQSmTmBMpod4FSj6wbHeGKIVJbOF9TpaE/i+z1m+z9k9YY+ycr+QZLgC6gB6EUMNlrU2Dir3n5Qizl40kyPgBiErfmc8NuXUkQoo7m8iCcO/bBMUrzqolLZjBIDBaL1fMgiad7Gsaa1ZGL1rZOXC8n/poDMiOJimwhM+q9v3rM41xgWIjuwpU9yhb6sCOztW9Q=   '
+    password: '{cipher}AQAF066wgBr4ZyDo10+DtrIvhlk/LTp6WrwNucq/5/VHhgjkE0Bjlw/wZcZRPoyuT75qZwtHQXbKtkHPnPpPdpmDxvnnnODzHMqhzGMpOz/Kp7qvF2x/ikErotsC9RnQYyFp/mMlPsvoOwkUaa8KDZEc+0UEa7TrGK09vKH3MjhzE9DLOQg9YC82HbQcpIWTUrQSmTmBMpod4FSj6wbHeGKIVJbOF9TpaE/i+z1m+z9k9YY+ycr+QZLgC6gB6EUMNlrU2Dir3n5Qizl40kyPgBiErfmc8NuXUkQoo7m8iCcO/bBMUrzqolLZjBIDBaL1fMgiad7Gsaa1ZGL1rZOXC8n/poDMiOJimwhM+q9v3rM41xgWIjuwpU9yhb6sCOztW9Q='
