@@ -2,4 +2,4 @@ data:
   env: config-eureka-dev
   user:
     username: eureka-client
-    password: '{cipher}AQCCVq12LFpF8jO611UBqw6AVRBxP9Zacu3w047iTG+aMQaUMmCVPkeVRAy2dz/PbAWuh7vvb2XLEohzNdiS6TFIjvmhGmtkA2X94qmr4OKEW/cSEGjuhA9jDoZ2pNxy+6YMY4VYaPXVHs1YxbyREAI3xX5dD063byE9bGIYCS5qZvAZ3MVmdOpGSTkykVaNMJ1udIXCyirTnF7K0jEcVAbgodKcGmdklzoRmsLQqJ818UccDU3rNF9VUCXB3bcj7DcKqMrp7KakoCcv+qTCuUQkn/94y/YuVphFQ1hJ0XtIq51977RGjhZzGwzhDXDJegx+WAi6Q2NbZnM52VEjfvOpmWgc4sFkgeG/nkG1BKF8qZliJcAkg/kbIfBuVv9hua0='
+    password: '{cipher}AQA/vfjOtIW02Rc15uPX/H4w+Sb9lGLQRm7tgf8xGTx4+iq/M7M8ntJki2nwa1sII39+LiQ2LYXtsVRRLTJ0++1Rf/u89A9N9lg721zHjUhc8T/3Kahwg3Tsn2k7UPVmTkBlHPGV8J7ye3essfokfc+4ir/WrY4D+ss+uNzngvR3yBxgn5/BWV6h7kjG1d97Wav2IGrxtSDn3i2oeIQmsllmDoiaetEuxGDQvJCEhoMt/Mo2OlycWF4hDxLE1TR9P/UknKU8CIjHaOx2UL5SW2lhO33p/ObM26JCU+2LZeTrc2DJ1k8/8CPkim9PT2UjKUhndETtwRnS48y0C3knXiCiedTO6JF9mpwHe0WtZW5VmfjKl4f/0KFLROYVyGbA71Q='
